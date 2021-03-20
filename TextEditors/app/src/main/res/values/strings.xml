@@ -1,0 +1,1074 @@
+<resources>
+    <string name="app_name">Text Editors</string>
+    <string name="sample_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Phasellus finibus nibh sed pulvinar laoreet.
+Aliquam eget diam in ante bibendum ornare nec sit amet leo.
+Vivamus egestas magna id quam ultrices, ac gravida massa viverra.
+Nullam a nunc in nibh efficitur suscipit eget quis mi.
+Vivamus scelerisque justo sed dui scelerisque, et euismod turpis ornare.
+Aenean finibus sapien ut sodales ultricies.
+Pellentesque sit amet enim sagittis augue imperdiet sollicitudin vitae in augue.
+Mauris tempus turpis non ullamcorper pharetra.
+Aliquam a enim commodo, aliquam ex id, sagittis felis.
+Morbi laoreet leo non massa egestas, eget eleifend est ultricies.
+Vivamus ac tortor placerat, tempor sem at, sagittis felis.
+Aliquam in nibh in velit pellentesque egestas sed nec lectus.
+Fusce sit amet enim sollicitudin, scelerisque ligula ut, ultrices neque.
+Maecenas ullamcorper ipsum non pharetra consequat.
+Morbi nec felis rutrum dui malesuada ornare volutpat vel ante.
+Sed a urna non tellus venenatis elementum.
+Cras sed tortor vel odio ullamcorper mollis nec vel sem.
+Integer dictum libero non sapien fringilla, vitae efficitur magna pulvinar.
+Nulla non nulla vel metus fringilla viverra.
+Donec vitae mauris id turpis euismod fringilla ut eu magna.
+Pellentesque bibendum nisl quis bibendum volutpat.
+In eu sapien id libero consectetur tempus ut eget neque.
+Donec semper nulla nec nibh semper, non varius purus maximus.
+Duis mollis eros nec mi elementum euismod ac vel leo.
+Nullam consectetur mauris sit amet sollicitudin dictum.
+Maecenas lobortis quam quis est tincidunt, et scelerisque nisl condimentum.
+Phasellus non sem ultrices massa sollicitudin tristique.
+Ut varius felis quis risus porta, ut consectetur elit consequat.
+Integer vel nisi et dui facilisis vulputate.
+Nunc facilisis mi vel felis pharetra pulvinar.
+Etiam euismod dui ut neque dictum lacinia.
+Duis vel neque luctus, dictum tortor id, porta nunc.
+Sed ac purus non elit ullamcorper fringilla.
+Curabitur ullamcorper justo at leo facilisis accumsan.
+Sed rhoncus dolor vel sapien ornare, a dictum augue venenatis.
+Sed convallis augue in sem aliquet imperdiet.
+Sed eleifend libero ut elit vestibulum, a elementum metus blandit.
+Etiam iaculis orci vel leo fringilla consectetur.
+Maecenas ut lorem porttitor, accumsan eros at, egestas tellus.
+Pellentesque mollis tortor in nisl finibus, eu molestie dui tincidunt.
+Pellentesque et eros quis erat sagittis feugiat.
+Pellentesque ac mi tincidunt, consequat quam at, dictum leo.
+Cras fringilla velit a congue faucibus.
+Pellentesque ut neque cursus, aliquet augue eget, imperdiet tortor.
+Donec euismod tellus non rhoncus efficitur.
+Nam malesuada tortor ac odio imperdiet egestas.
+Fusce vehicula dui bibendum ligula faucibus dignissim quis sed nisi.
+Fusce maximus dolor vel mauris hendrerit, id convallis ante consequat.
+Morbi quis sapien nec nunc vestibulum semper ac non neque.
+Donec rutrum leo a enim elementum iaculis.
+Fusce rutrum dolor nec nulla pellentesque, a tempus risus viverra.
+Praesent quis tortor et nisi accumsan aliquam.
+Suspendisse eget leo ullamcorper, porta quam pellentesque, sodales felis.
+Morbi consequat ante et nisi vulputate fermentum consequat sit amet diam.
+In venenatis diam condimentum neque bibendum, a ultrices neque gravida.
+Nam vitae lorem a ipsum consequat pharetra.
+Curabitur egestas velit a lectus dapibus, quis pulvinar ante pellentesque.
+Donec malesuada nibh vitae lacus posuere rutrum.
+Nulla pellentesque lorem vel vulputate efficitur.
+Nullam placerat felis eu blandit rutrum.
+Donec id quam ut magna cursus iaculis.
+Curabitur molestie dolor sed enim efficitur, quis aliquam felis fringilla.
+In fringilla risus at est feugiat commodo.
+Nulla in lacus gravida risus laoreet interdum quis id ante.
+Aliquam accumsan lectus eget risus vestibulum tincidunt.
+Nullam sit amet erat accumsan, suscipit velit nec, lobortis libero.
+Vivamus egestas tellus consectetur est aliquet, id sagittis tortor laoreet.
+Vivamus quis metus a odio egestas molestie.
+Duis blandit dui nec congue dignissim.
+Sed aliquet nibh convallis lacinia volutpat.
+Phasellus id justo ut odio commodo dignissim ut id dui.
+Suspendisse maximus ipsum pellentesque, malesuada nisi quis, pretium eros.
+Pellentesque a tortor interdum, eleifend risus sed, tempor mi.
+Pellentesque pharetra lorem sed molestie faucibus.
+Duis efficitur lorem non vestibulum imperdiet.
+Fusce consequat velit vitae felis pellentesque lobortis.
+Maecenas non lectus in enim lacinia eleifend vel sit amet ex.
+Nunc nec ligula a nibh lacinia congue non vitae risus.
+Suspendisse porta magna volutpat, varius nulla eget, euismod mi.
+Morbi in libero vitae mi euismod maximus eget ac nulla.
+Nullam tempus sem auctor arcu egestas condimentum.
+Suspendisse in ante ut mauris condimentum feugiat laoreet eget risus.
+Phasellus at nisi ut arcu imperdiet dapibus.
+Proin ut metus quis mauris ullamcorper gravida eu quis leo.
+Fusce varius mi quis elit fringilla aliquet.
+Donec sit amet augue nec lorem imperdiet molestie sit amet sed orci.
+Praesent nec velit eget ante gravida sodales.
+Nulla at lectus non magna ultrices fringilla.
+Pellentesque feugiat sem a quam ultricies, et tincidunt tortor elementum.
+Donec volutpat justo ut tellus sagittis bibendum.
+Fusce interdum diam at rhoncus elementum.
+Mauris et ex tempor, accumsan eros eget, fringilla dui.
+Cras posuere orci quis posuere vestibulum.
+Duis sagittis nisl ut lacus lobortis vehicula.
+Vestibulum ac turpis suscipit, commodo elit eu, dictum odio.
+Vestibulum pretium dui ultricies, eleifend urna non, semper sem.
+Quisque quis diam tempor, ultrices ipsum vitae, viverra metus.
+Pellentesque sit amet felis a dui luctus porttitor non ac risus.
+Etiam efficitur tellus eu sodales ultricies.
+Integer at leo interdum, maximus libero vel, luctus dui.
+Sed iaculis elit sit amet blandit suscipit.
+Quisque dignissim leo sed turpis faucibus, ut laoreet erat tempus.
+Proin semper nunc sed nulla lobortis aliquet.
+Donec suscipit augue at orci mattis dapibus.
+Proin ac urna tristique lacus fermentum fermentum.
+Aliquam vestibulum ipsum vel egestas facilisis.
+Integer vestibulum urna et urna iaculis finibus.
+Etiam sit amet ante at metus auctor ullamcorper eu in purus.
+Etiam dictum augue tempus purus cursus, a suscipit tellus cursus.
+Integer sollicitudin odio et elit sollicitudin, eu pulvinar purus posuere.
+Morbi at lectus pretium, posuere nisi ac, hendrerit ante.
+Aliquam ultrices ante a iaculis ullamcorper.
+Nullam fringilla arcu ut sapien interdum, id porttitor sapien faucibus.
+Nullam non felis vitae neque eleifend dictum id id ligula.
+Nam eget ante in elit fringilla dapibus.
+Donec porttitor sem viverra facilisis blandit.
+Nam porttitor lacus quis felis malesuada lobortis.
+Fusce pharetra nisl quis tortor pulvinar, ultricies lobortis odio accumsan.
+Morbi volutpat risus consectetur posuere sagittis.
+In pretium nunc blandit enim euismod aliquam.
+Praesent eu diam volutpat, accumsan orci sit amet, vestibulum libero.
+Aenean ullamcorper libero sit amet massa egestas suscipit.
+Maecenas nec nisl sed nibh egestas dapibus.
+Morbi sit amet justo auctor, pharetra dui eget, posuere nunc.
+Proin et ex mattis, pharetra metus eu, aliquam massa.
+Mauris efficitur metus sit amet ligula pharetra mollis.
+Curabitur eget neque mattis, luctus dui non, feugiat nulla.
+Sed vehicula mauris id gravida iaculis.
+Mauris et mi feugiat, placerat augue iaculis, tincidunt lacus.
+Quisque quis nisl lobortis, cursus erat non, aliquet velit.
+Suspendisse luctus mi eget tellus imperdiet, a pellentesque risus dapibus.
+Sed ultricies nisl laoreet dui ultrices, a cursus felis sodales.
+Duis porttitor tellus vitae dui venenatis dapibus.
+Fusce et felis aliquam, malesuada leo sit amet, eleifend nisi.
+Integer malesuada neque eu orci sollicitudin, vel blandit nibh varius.
+Phasellus imperdiet est lacinia erat mollis rutrum.
+Aliquam sed lectus placerat, fringilla odio ac, tincidunt massa.
+Suspendisse in magna et nunc fermentum ultricies id sit amet magna.
+Suspendisse vehicula elit et justo luctus tempus.
+Donec commodo dolor ut mollis varius.
+Sed ut enim varius dolor efficitur blandit.
+Quisque quis mi quis turpis lacinia pulvinar.
+Pellentesque commodo odio non lacus viverra, nec ultrices neque maximus.
+Mauris eu odio ac velit auctor convallis.
+Morbi eget sem eget elit porttitor sodales.
+Proin ac velit fringilla, tempus dui non, aliquam nulla.
+Pellentesque pulvinar leo nec quam varius bibendum.
+Nullam fermentum odio sed bibendum maximus.
+Praesent a nisl mattis, iaculis lacus vitae, hendrerit nulla.
+In aliquam enim gravida velit commodo, at eleifend metus tristique.
+Proin mollis diam id vehicula feugiat.
+Nunc laoreet purus vitae magna euismod tristique.
+In commodo ante pharetra risus venenatis, vitae tristique mi vulputate.
+Nunc sed nisl congue dolor efficitur aliquet non imperdiet dui.
+Vestibulum ut magna eget metus lobortis pulvinar vel eget magna.
+Integer at diam mattis, rhoncus massa in, ultrices lorem.
+Ut faucibus mi sed aliquet ullamcorper.
+Etiam at massa varius, fermentum arcu sed, ornare est.
+Donec ullamcorper turpis sed nulla mattis bibendum.
+Ut pellentesque mauris quis laoreet accumsan.
+Nunc eget quam vitae ipsum fermentum faucibus.
+Cras imperdiet neque in justo lacinia porta.
+Proin auctor est eget libero dignissim ullamcorper.
+Quisque accumsan elit nec orci laoreet, ac faucibus tellus dignissim.
+Integer in sem pretium, hendrerit erat ut, efficitur nulla.
+Duis faucibus ante sit amet neque imperdiet, nec hendrerit augue finibus.
+Donec varius nisl blandit tincidunt facilisis.
+Mauris finibus turpis non leo sagittis, quis euismod neque faucibus.
+Cras consequat lectus non dignissim feugiat.
+Nullam nec orci quis nibh ultricies accumsan.
+Phasellus in enim tristique, lacinia turpis varius, lacinia lorem.
+Integer non sapien sagittis lectus condimentum lacinia nec vitae sem.
+Nunc eget quam quis tortor aliquet faucibus.
+Aenean feugiat tortor ornare quam pretium dictum.
+Ut efficitur purus at lorem feugiat finibus.
+Phasellus gravida ligula ac gravida congue.
+Nulla nec ipsum et nibh efficitur pellentesque at eget elit.
+Donec mollis ligula eget auctor semper.
+Suspendisse ut erat commodo, porttitor sapien vel, consequat lacus.
+Vestibulum sit amet lectus tempus, tempus arcu in, rutrum lectus.
+Phasellus eleifend nibh non lobortis tempus.
+Aenean nec mauris sit amet justo scelerisque vehicula consequat id justo.
+Phasellus scelerisque massa vel elementum vestibulum.
+Nullam vulputate erat vitae eleifend fermentum.
+Vestibulum sed metus a elit tincidunt vestibulum quis non metus.
+Ut et tortor tincidunt, facilisis augue nec, faucibus justo.
+Maecenas sit amet nisi id purus ultrices ornare quis vel dui.
+Nulla facilisis justo at neque aliquam, vel feugiat magna luctus.
+Proin vel diam egestas, pulvinar urna quis, condimentum risus.
+Morbi lacinia nibh ut pulvinar lacinia.
+Maecenas euismod sapien ac sapien porttitor ultrices.
+Aliquam sed arcu ultrices, finibus nisl dapibus, pharetra neque.
+Aliquam pellentesque diam vulputate dui pretium, a maximus ante facilisis.
+Maecenas id ipsum ut nisi pulvinar ullamcorper eget non neque.
+Sed dignissim quam non metus pharetra tincidunt.
+Sed nec felis eu lorem rutrum sodales.
+Quisque imperdiet ipsum lacinia nisl dignissim interdum.
+Maecenas tristique dolor fermentum convallis elementum.
+In ut dui efficitur, interdum magna quis, feugiat massa.
+Integer at elit et nisi lobortis tempor.
+Quisque condimentum massa a quam gravida elementum.
+Pellentesque eget massa vulputate lorem tempor fermentum.
+Proin eu velit sed nulla maximus vestibulum.
+Maecenas aliquet augue id nibh ullamcorper pellentesque.
+Quisque molestie nunc nec augue semper, eu egestas orci dapibus.
+Maecenas maximus mi nec tristique tincidunt.
+Donec vel felis ut nisi tincidunt gravida et non orci.
+Sed congue metus sit amet magna tempor, ac mattis velit volutpat.
+Sed vel augue a tortor volutpat blandit.
+Nam maximus nulla ac nunc tincidunt, sodales mollis mi egestas.
+Phasellus eu est tincidunt, tempus velit ac, finibus justo.
+Nunc at elit et sem vehicula tincidunt at vulputate ipsum.
+Vivamus non mauris vehicula, pulvinar nisi vel, sollicitudin neque.
+Ut at ex eget elit rutrum sollicitudin.
+Pellentesque nec justo in felis laoreet auctor.
+Nulla at nisi placerat, posuere enim id, efficitur velit.
+Ut non ipsum nec massa semper consequat.
+Proin quis tortor eu lacus elementum lobortis sed vitae ex.
+Nullam lacinia felis egestas dui tristique, eget euismod leo pellentesque.
+Nam molestie tellus ut dolor sodales faucibus.
+Aliquam quis magna sit amet ante tristique aliquet eget quis arcu.
+Mauris vulputate metus ultrices dolor mattis lobortis.
+Integer molestie justo vel nibh tincidunt interdum.
+Ut gravida lorem et nisi accumsan, ut lobortis mi luctus.
+Nulla eu massa eget quam maximus ullamcorper.
+Donec at dui iaculis, dapibus odio nec, faucibus eros.
+Proin ut sem quis enim viverra tincidunt quis et arcu.
+Vivamus in dui at nisi fringilla accumsan quis eu purus.
+Donec feugiat lacus viverra, semper sapien in, fringilla tellus.
+Cras lacinia est ac lacus egestas, at gravida ipsum pretium.
+Phasellus ac urna eget ligula luctus iaculis.
+Vestibulum nec leo a ex rutrum varius.
+Nam commodo metus ac dapibus pretium.
+Etiam tristique nunc venenatis sapien gravida, nec porttitor tellus faucibus.
+Aenean bibendum dolor consectetur, tristique sem ut, ornare ante.
+Curabitur congue lacus sed lectus rutrum, vitae aliquam orci tincidunt.
+Etiam porttitor enim quis nunc malesuada lacinia.
+Maecenas sit amet urna sit amet elit consectetur tincidunt non id augue.
+Donec mattis massa quis sapien interdum, eu efficitur risus vulputate.
+In efficitur nisl ultricies metus porttitor tempus.
+Aenean aliquet enim vel nulla ultricies, quis vulputate sem convallis.
+Sed faucibus diam vitae odio lacinia, nec porttitor ipsum laoreet.
+Integer tincidunt nunc eget eros ornare maximus.
+Cras ornare risus ut neque pulvinar pulvinar.
+Donec fermentum sapien in nunc cursus, at viverra orci ultrices.
+Duis viverra risus eu arcu volutpat congue.
+Proin commodo nisi euismod tellus suscipit, eu aliquet mauris varius.
+Mauris porttitor lacus vel sagittis lobortis.
+Mauris porttitor enim cursus, commodo est id, efficitur lacus.
+Sed eget risus nec augue lobortis euismod semper tristique est.
+Ut eu erat interdum magna suscipit lacinia.
+Suspendisse venenatis justo non purus placerat convallis.
+Phasellus laoreet erat quis est consequat euismod.
+Ut viverra nulla sed enim faucibus, pellentesque efficitur odio semper.
+Duis quis metus ultricies, varius ante non, maximus tellus.
+Nullam eleifend felis maximus lectus faucibus pellentesque.
+Cras tincidunt lacus rhoncus nisl accumsan pellentesque.
+Sed in ex vestibulum, faucibus nibh vel, auctor lorem.
+Vivamus id nibh euismod, congue nisi et, dictum justo.
+Vestibulum sodales metus sed ligula mollis, sed pretium ante convallis.
+Morbi et ligula varius, ultricies elit sit amet, fringilla orci.
+Nunc dignissim eros at felis lacinia, ac vulputate dolor elementum.
+Donec consequat augue eu tellus iaculis, nec posuere diam tincidunt.
+Donec vel tellus cursus, condimentum orci eget, lobortis nulla.
+Vestibulum nec lacus ac nunc euismod consequat nec molestie tellus.
+Morbi faucibus urna id gravida accumsan.
+Etiam consectetur arcu at imperdiet rhoncus.
+Vivamus in neque id ligula tincidunt maximus ac a ipsum.
+Suspendisse tincidunt risus nec ipsum luctus bibendum.
+Quisque eget felis non ipsum rutrum consectetur.
+Aenean vitae felis nec dolor euismod tempor sed id sem.
+Nullam quis elit scelerisque, mattis ante id, venenatis justo.
+Proin mattis risus in quam interdum mattis.
+Vestibulum venenatis justo id congue faucibus.
+Cras sodales nisi eget volutpat pharetra.
+Nulla a libero dignissim, ultrices erat id, iaculis erat.
+Pellentesque pulvinar elit eu purus cursus, quis cursus lorem maximus.
+Pellentesque iaculis odio id enim tristique pellentesque.
+Aenean vel massa quis mi condimentum tempus.
+Pellentesque ut ipsum in metus pulvinar vehicula id vitae est.
+Vestibulum tincidunt libero non velit finibus, eu fringilla tortor interdum.
+Vestibulum sed lectus pulvinar, lobortis mauris a, finibus quam.
+Mauris commodo ex sit amet dignissim mollis.
+Integer dignissim leo non velit accumsan faucibus.
+Proin gravida ligula nec est vulputate iaculis.
+Nunc sodales erat sit amet finibus commodo.
+Morbi quis neque at nibh dictum porta quis a eros.
+Vivamus suscipit nisl congue vestibulum maximus.
+Fusce sodales ante eget placerat convallis.
+Integer egestas augue quis ante commodo faucibus.
+Praesent congue orci nec diam faucibus, in iaculis eros lobortis.
+Quisque ut urna ullamcorper, mollis libero eu, suscipit justo.
+Duis sed mauris vitae nulla ultricies ullamcorper et non turpis.
+Aenean et libero id tellus viverra ullamcorper at quis purus.
+Aenean nec dui dictum erat egestas laoreet.
+Nullam non metus rhoncus, mollis justo a, malesuada nibh.
+Sed consectetur tortor nec lacinia semper.
+Nulla tincidunt lacus a commodo hendrerit.
+Quisque vel purus lacinia, malesuada ipsum non, aliquet felis.
+Sed a ligula sed dui faucibus vestibulum ac ac erat.
+Nunc aliquet ipsum ac eleifend sagittis.
+Etiam a ligula vulputate, dignissim odio vel, tincidunt ex.
+Maecenas ornare metus quis eleifend rutrum.
+Sed quis massa vitae libero rutrum blandit sit amet quis libero.
+Sed quis elit at orci malesuada condimentum et eu ligula.
+Nulla hendrerit massa et augue fermentum lacinia.
+Donec ac sapien in est dictum dictum eget ac nunc.
+Suspendisse molestie turpis vitae erat rutrum, ut accumsan mi scelerisque.
+Nam dapibus lacus sit amet lorem fermentum feugiat.
+Duis vitae purus viverra nisl congue vestibulum.
+Aenean quis lectus eget tortor finibus congue non nec arcu.
+Sed sed nunc pharetra, laoreet mauris in, auctor est.
+Vivamus maximus nisl vel magna ornare, egestas euismod felis viverra.
+Nunc id arcu molestie, mollis metus eget, vulputate tellus.
+Maecenas aliquam tellus pulvinar aliquam volutpat.
+In et dui vel lacus viverra facilisis.
+Mauris rutrum mauris et neque vestibulum euismod.
+Donec venenatis felis non justo pretium faucibus.
+Nam semper nulla at ante elementum elementum.
+Nam consequat nibh convallis diam auctor finibus.
+Nunc lacinia libero et velit ullamcorper, in pretium quam cursus.
+Vivamus ut lorem imperdiet, lobortis metus vel, ultrices erat.
+Aenean mattis lorem eu purus mollis, vitae faucibus mauris cursus.
+In congue mauris ut tellus pulvinar, sit amet suscipit magna facilisis.
+Etiam semper tellus sit amet nibh commodo, et maximus leo congue.
+Cras scelerisque tellus ac lectus dictum congue.
+Curabitur cursus nisl vitae accumsan interdum.
+Vestibulum tempus neque ac dui venenatis tincidunt.
+Donec commodo ex sit amet porttitor commodo.
+Quisque ac lectus fermentum, lobortis magna ut, ultricies ante.
+Maecenas et mi non tellus hendrerit imperdiet euismod vel nisi.
+Maecenas ut turpis a orci bibendum eleifend.
+Nulla viverra odio ut ex tempus vulputate.
+Donec vehicula diam vel bibendum elementum.
+Integer sit amet augue vel ligula convallis finibus.
+Sed eu tellus rutrum, commodo arcu ac, rutrum tortor.
+Nunc rutrum lacus a maximus tempus.
+Duis feugiat ante vitae quam vehicula consectetur.
+Etiam laoreet quam ut purus ullamcorper feugiat.
+Aliquam eu nisi nec nisl vehicula malesuada ac et orci.
+Nullam et diam vitae felis efficitur tristique.
+Vestibulum quis enim fringilla, lobortis purus et, finibus tellus.
+Maecenas id sem eu ipsum vulputate congue.
+In lobortis felis ullamcorper elit accumsan congue.
+Quisque vitae dolor quis metus sagittis hendrerit.
+Duis sed massa non mi convallis semper sed a nisi.
+Cras dictum sapien id erat vehicula vulputate.
+Nunc malesuada felis sed risus consequat faucibus.
+Sed blandit dui eu porta consequat.
+Suspendisse ac lectus tincidunt, maximus risus ac, interdum erat.
+Ut viverra nunc eu malesuada cursus.
+Curabitur accumsan erat ut nibh vulputate ornare a vestibulum est.
+Aenean in leo nec eros vestibulum sagittis.
+Morbi posuere massa ac leo suscipit accumsan.
+Nunc vehicula nulla ac condimentum rhoncus.
+Suspendisse pretium lacus eu ultricies ornare.
+Vivamus elementum quam vel dictum commodo.
+Mauris non magna in mauris porta pulvinar.
+Vestibulum interdum risus ac turpis luctus auctor.
+Nullam eu justo in elit pretium faucibus.
+Mauris ac velit vehicula, ultricies quam vel, mattis enim.
+Nam a nisl in felis consectetur rutrum.
+Aenean ut ipsum nec lorem dictum maximus.
+Quisque dignissim urna ac magna commodo, ut iaculis mi volutpat.
+Sed vel nibh non dui consectetur interdum id in augue.
+Vestibulum rutrum ex ac velit elementum, sed blandit lacus pulvinar.
+Proin malesuada est sit amet vulputate hendrerit.
+Phasellus pulvinar sapien eget elit posuere suscipit.
+Nunc tempus odio vitae ligula aliquet, sagittis hendrerit turpis commodo.
+Etiam lacinia ligula ornare elit sagittis, vel varius urna rhoncus.
+Curabitur malesuada ligula vitae dui pellentesque, nec pellentesque diam ultricies.
+Sed ornare turpis et ipsum posuere blandit.
+Nam sed sem gravida ante molestie malesuada.
+Sed convallis ligula eget ultrices aliquam.
+Phasellus ut nisl eget neque imperdiet blandit.
+Aliquam euismod mauris ut enim dapibus ullamcorper.
+Curabitur id tellus ut libero porttitor laoreet non laoreet sem.
+Donec congue lorem vitae placerat hendrerit.
+Aliquam mollis urna non venenatis dapibus.
+Curabitur tincidunt massa non diam vulputate aliquet.
+Nullam in velit sagittis dolor dictum sagittis.
+Nulla elementum nisi quis libero ultrices molestie.
+Praesent fermentum magna ac felis venenatis vulputate.
+Etiam sit amet eros vel lectus vehicula vestibulum ut vitae urna.
+Sed condimentum arcu a ipsum molestie, ut fringilla tellus eleifend.
+Duis eget lectus eget nisl laoreet congue.
+Integer lobortis orci id ipsum laoreet pulvinar.
+In rutrum tortor quis lectus congue, ut mollis urna porta.
+Maecenas sed massa molestie, condimentum orci a, imperdiet augue.
+Sed vitae elit ac augue laoreet pellentesque.
+Nunc aliquet urna ac lectus consectetur, eget maximus magna blandit.
+Ut eleifend urna vitae nulla ultrices pharetra.
+Vestibulum luctus lorem a orci imperdiet, ac molestie nisi fringilla.
+Duis pulvinar turpis et mattis vulputate.
+Pellentesque in magna vitae ante pharetra mollis.
+Nam in risus quis quam iaculis eleifend et quis felis.
+Integer sed leo rutrum, convallis metus quis, efficitur quam.
+Nunc quis purus tincidunt, posuere ex pretium, mollis magna.
+Integer venenatis est eget lectus tincidunt viverra.
+In commodo justo laoreet, congue magna et, condimentum mi.
+Cras et ligula ut ipsum mollis maximus sagittis ut metus.
+Cras posuere risus sit amet blandit tempus.
+Aliquam commodo libero quis tincidunt porta.
+Suspendisse sit amet elit et urna gravida sodales.
+Suspendisse laoreet turpis eu mauris dictum cursus.
+Sed aliquam sapien non diam efficitur fringilla.
+Fusce nec enim sit amet urna vulputate ornare vel quis justo.
+Etiam rutrum ligula eleifend ullamcorper auctor.
+Nam nec dui vestibulum, posuere elit in, ornare nibh.
+Praesent quis turpis ac tellus porta dapibus id eu lectus.
+Praesent dapibus est sit amet justo ullamcorper ultrices quis non nulla.
+Aenean fermentum purus id nibh tempus placerat.
+Duis non purus sit amet eros vehicula aliquam non eget leo.
+Nunc tincidunt ante a mi facilisis egestas.
+Nam in nibh vitae massa faucibus eleifend et nec mi.
+Praesent pulvinar ligula nec nisi feugiat, id facilisis sem dignissim.
+Phasellus porta nulla eget ipsum cursus, eu egestas quam porttitor.
+Fusce dapibus ligula vel tellus pharetra, sed consectetur urna placerat.
+Pellentesque placerat dolor sed nisl gravida ornare.
+Donec pharetra libero sed quam semper mollis.
+Donec ut erat aliquam, aliquet elit vitae, maximus mauris.
+Mauris mollis nulla et mauris consectetur, nec consequat ex condimentum.
+Curabitur a erat vitae urna dignissim sodales.
+Nunc et quam faucibus, dapibus velit non, tincidunt mi.
+Morbi bibendum magna in nunc finibus, non congue elit varius.
+Sed sed lacus sit amet leo aliquet tristique et vel augue.
+Vestibulum auctor turpis ultrices lorem tincidunt placerat.
+Vivamus quis purus eget nibh lacinia semper at at mauris.
+Aenean tincidunt lorem vel tincidunt rutrum.
+Nunc ut nisl at mauris maximus placerat.
+Integer ac tortor sit amet felis sodales mollis gravida ac enim.
+Vestibulum faucibus ex sit amet elementum vehicula.
+Sed tincidunt orci ut magna viverra placerat.
+Ut scelerisque lectus ac elementum volutpat.
+Nulla sed risus sed libero ultricies fermentum sit amet ut urna.
+Pellentesque non lorem quis risus semper congue.
+Maecenas luctus sem eu massa consectetur, vitae dictum quam semper.
+Donec a urna ut leo pulvinar rutrum ac ut lorem.
+Nunc eu diam iaculis, tempus nunc in, dictum ligula.
+Donec at urna tincidunt, sollicitudin tellus nec, porttitor lacus.
+Nunc ac massa fermentum, interdum quam a, fringilla orci.
+Proin vel eros eu tellus convallis hendrerit at a tortor.
+Donec volutpat justo a maximus ultricies.
+Mauris pretium tellus in porta finibus.
+Donec vulputate dui at sem sodales lacinia.
+Nam non elit auctor, varius sem eu, rutrum diam.
+Nam dapibus lorem vel nisi interdum, sit amet convallis nisl pulvinar.
+Pellentesque scelerisque quam sit amet enim viverra, gravida vulputate nulla gravida.
+Morbi volutpat sem vel consequat molestie.
+Mauris tempor ligula vel mollis luctus.
+Sed at sem rutrum, volutpat libero id, tempor nunc.
+Quisque et magna congue, sollicitudin orci id, tempor justo.
+Donec tempus ipsum elementum, maximus mauris ac, dapibus velit.
+Pellentesque varius leo vel augue consectetur, et ornare justo ultrices.
+Donec feugiat ipsum vel est porttitor, vel eleifend ipsum iaculis.
+Phasellus ullamcorper dui sit amet diam efficitur, in aliquam mauris euismod.
+Morbi vulputate mauris ut tortor aliquet, vitae elementum nisl mollis.
+Vivamus ac enim maximus, pulvinar turpis quis, maximus sem.
+Sed porttitor purus id risus varius, eget laoreet diam tincidunt.
+Donec feugiat libero vel ligula mattis mattis.
+Maecenas fringilla augue nec leo rutrum pellentesque.
+Nam id enim ac nisi accumsan ornare eget ut leo.
+Donec sagittis odio a felis ultrices tempus.
+Etiam in purus pharetra mi pretium varius.
+Ut sit amet ligula facilisis, ultrices magna id, interdum leo.
+Curabitur eu velit a urna vulputate placerat.
+Mauris luctus eros eu tortor placerat gravida.
+Aliquam bibendum lacus auctor, facilisis nunc in, consequat eros.
+Suspendisse in nulla et nibh sodales fermentum interdum ut lorem.
+Curabitur in est ac sem ornare auctor.
+Donec imperdiet lectus vel mauris vestibulum mollis.
+Sed sed metus suscipit, rutrum turpis vitae, scelerisque justo.
+Pellentesque vehicula lorem non rhoncus volutpat.
+Nam malesuada odio id quam pellentesque, non pretium dui pulvinar.
+Vestibulum malesuada justo at diam ultricies, id varius odio semper.
+Aliquam eu elit ullamcorper urna euismod tristique.
+Fusce ac tellus eget mauris posuere rhoncus.
+Donec fringilla nisl ut orci blandit, et consequat felis aliquam.
+In ac metus ac nisi porta dignissim.
+Nam id ligula ac nunc pulvinar faucibus.
+Integer et tellus quis nisl molestie gravida nec quis mi.
+Donec eget tellus egestas sem lacinia viverra.
+Fusce quis augue in magna rhoncus viverra ac vel dui.
+In nec mi pharetra, pellentesque ligula in, gravida velit.
+Pellentesque elementum erat congue, porta sapien in, feugiat ipsum.
+Morbi viverra turpis sed ex eleifend feugiat.
+Cras tempor erat vel erat finibus, sit amet efficitur ipsum sagittis.
+Morbi eget massa mattis, placerat neque vitae, sagittis dolor.
+Mauris vel sem sit amet tortor viverra bibendum.
+Vestibulum eget nulla eget eros tempor consectetur.
+Curabitur nec velit id lectus commodo finibus ac vel enim.
+Cras non ipsum tristique, consequat enim sed, fermentum lorem.
+Praesent eu ligula id arcu laoreet accumsan.
+Duis varius sapien vitae mauris aliquam, sit amet finibus mi laoreet.
+Sed sit amet metus a velit iaculis sollicitudin.
+In sit amet felis vel lectus fermentum imperdiet quis ac ex.
+In nec elit elementum diam dapibus pharetra.
+Maecenas in massa at sem fermentum eleifend.
+Etiam eleifend eros non enim blandit vehicula.
+Vivamus a risus ut metus sollicitudin dignissim quis vitae diam.
+Curabitur non nunc facilisis, tempus dui id, iaculis metus.
+Donec sodales erat eu quam lacinia, nec faucibus tellus rutrum.
+Praesent nec diam et metus feugiat vehicula eget at odio.
+Pellentesque porttitor urna nec mi venenatis molestie.
+Donec vitae mi aliquet, dignissim nulla a, iaculis sapien.
+Vestibulum tincidunt nunc interdum, rutrum nibh eu, molestie mi.
+Vivamus faucibus neque eu sem elementum, id mollis nulla placerat.
+Suspendisse tempus orci sit amet neque euismod commodo.
+Praesent sed quam lacinia, laoreet arcu a, vestibulum orci.
+Praesent id libero sed mi congue sollicitudin.
+Vestibulum a est consectetur, rutrum lectus a, consequat justo.
+Nullam et massa non erat maximus egestas.
+Nulla eget massa in dui fringilla condimentum.
+Phasellus venenatis sapien at elit egestas, vel lobortis augue ultrices.
+Vestibulum molestie erat vel orci vestibulum molestie.
+Aliquam vestibulum quam et risus lobortis posuere.
+Pellentesque ac arcu efficitur, molestie augue sagittis, lacinia purus.
+Aenean auctor enim nec sem pretium auctor.
+Ut venenatis turpis egestas, eleifend odio rhoncus, facilisis tellus.
+Duis a arcu in lorem sodales auctor at sit amet ante.
+Proin sed ex ultrices, efficitur augue sit amet, vulputate ipsum.
+In ac mi a enim sagittis tincidunt egestas sed lorem.
+Sed rutrum augue eget augue maximus efficitur.
+Aenean et libero sit amet ipsum fringilla consequat.
+Maecenas gravida ex et neque rutrum, sed commodo nibh auctor.
+Vestibulum eleifend ligula ut libero elementum eleifend.
+Cras vel nunc ut purus volutpat lacinia non ut ipsum.
+Sed et mauris tincidunt augue lobortis elementum nec sit amet purus.
+Etiam congue massa sed porttitor placerat.
+Nullam interdum risus pharetra dolor condimentum elementum.
+Praesent fermentum metus id nulla iaculis, eget scelerisque leo ultrices.
+Proin tristique quam ut lorem auctor, faucibus pretium dolor molestie.
+Sed pulvinar lectus vitae est feugiat, at accumsan libero lacinia.
+Praesent interdum purus quis imperdiet pretium.
+Vivamus at odio nec dui aliquam gravida at a dui.</string>
+    <string name="sample_text_with_nl" formatted="false">\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n
+Phasellus finibus nibh sed pulvinar laoreet.\n
+Aliquam eget diam in ante bibendum ornare nec sit amet leo.\nVivamus egestas magna id quam ultrices, ac gravida massa viverra.\n
+Nullam a nunc in nibh efficitur suscipit eget quis mi.\n
+Vivamus scelerisque justo sed dui scelerisque, et euismod turpis ornare.\n
+Aenean finibus sapien ut sodales ultricies.\n
+Pellentesque sit amet enim sagittis augue imperdiet sollicitudin vitae in augue.\n
+Mauris tempus turpis non ullamcorper pharetra.\n
+Aliquam a enim commodo, aliquam ex id, sagittis felis.\n
+Morbi laoreet leo non massa egestas, eget eleifend est ultricies.\n
+Vivamus ac tortor placerat, tempor sem at, sagittis felis.\n
+Aliquam in nibh in velit pellentesque egestas sed nec lectus.\n
+Fusce sit amet enim sollicitudin, scelerisque ligula ut, ultrices neque.\n
+Maecenas ullamcorper ipsum non pharetra consequat.\n
+Morbi nec felis rutrum dui malesuada ornare volutpat vel ante.\n
+Sed a urna non tellus venenatis elementum.\n
+Cras sed tortor vel odio ullamcorper mollis nec vel sem.\n
+Integer dictum libero non sapien fringilla, vitae efficitur magna pulvinar.\n
+Nulla non nulla vel metus fringilla viverra.\n
+Donec vitae mauris id turpis euismod fringilla ut eu magna.\n
+Pellentesque bibendum nisl quis bibendum volutpat.\n
+In eu sapien id libero consectetur tempus ut eget neque.\n
+Donec semper nulla nec nibh semper, non varius purus maximus.\n
+Duis mollis eros nec mi elementum euismod ac vel leo.\n
+Nullam consectetur mauris sit amet sollicitudin dictum.\n
+Maecenas lobortis quam quis est tincidunt, et scelerisque nisl condimentum.\n
+Phasellus non sem ultrices massa sollicitudin tristique.\n
+Ut varius felis quis risus porta, ut consectetur elit consequat.\n
+Integer vel nisi et dui facilisis vulputate.\n
+Nunc facilisis mi vel felis pharetra pulvinar.\n
+Etiam euismod dui ut neque dictum lacinia.\n
+Duis vel neque luctus, dictum tortor id, porta nunc.\n
+Sed ac purus non elit ullamcorper fringilla.\n
+Curabitur ullamcorper justo at leo facilisis accumsan.\n
+Sed rhoncus dolor vel sapien ornare, a dictum augue venenatis.\n
+Sed convallis augue in sem aliquet imperdiet.\n
+Sed eleifend libero ut elit vestibulum, a elementum metus blandit.\n
+Etiam iaculis orci vel leo fringilla consectetur.\n
+Maecenas ut lorem porttitor, accumsan eros at, egestas tellus.\n
+Pellentesque mollis tortor in nisl finibus, eu molestie dui tincidunt.\n
+Pellentesque et eros quis erat sagittis feugiat.\n
+Pellentesque ac mi tincidunt, consequat quam at, dictum leo.\n
+Cras fringilla velit a congue faucibus.\n
+Pellentesque ut neque cursus, aliquet augue eget, imperdiet tortor.\n
+Donec euismod tellus non rhoncus efficitur.\n
+Nam malesuada tortor ac odio imperdiet egestas.\n
+Fusce vehicula dui bibendum ligula faucibus dignissim quis sed nisi.\n
+Fusce maximus dolor vel mauris hendrerit, id convallis ante consequat.\n
+Morbi quis sapien nec nunc vestibulum semper ac non neque.\n
+Donec rutrum leo a enim elementum iaculis.\n
+Fusce rutrum dolor nec nulla pellentesque, a tempus risus viverra.\n
+Praesent quis tortor et nisi accumsan aliquam.\n
+Suspendisse eget leo ullamcorper, porta quam pellentesque, sodales felis.\n
+Morbi consequat ante et nisi vulputate fermentum consequat sit amet diam.\n
+In venenatis diam condimentum neque bibendum, a ultrices neque gravida.\n
+Nam vitae lorem a ipsum consequat pharetra.\n
+Curabitur egestas velit a lectus dapibus, quis pulvinar ante pellentesque.\n
+Donec malesuada nibh vitae lacus posuere rutrum.\n
+Nulla pellentesque lorem vel vulputate efficitur.\n
+Nullam placerat felis eu blandit rutrum.\n
+Donec id quam ut magna cursus iaculis.\n
+Curabitur molestie dolor sed enim efficitur, quis aliquam felis fringilla.\n
+In fringilla risus at est feugiat commodo.\n
+Nulla in lacus gravida risus laoreet interdum quis id ante.\n
+Aliquam accumsan lectus eget risus vestibulum tincidunt.\n
+Nullam sit amet erat accumsan, suscipit velit nec, lobortis libero.\n
+Vivamus egestas tellus consectetur est aliquet, id sagittis tortor laoreet.\n
+Vivamus quis metus a odio egestas molestie.\n
+Duis blandit dui nec congue dignissim.\n
+Sed aliquet nibh convallis lacinia volutpat.\n
+Phasellus id justo ut odio commodo dignissim ut id dui.\n
+Suspendisse maximus ipsum pellentesque, malesuada nisi quis, pretium eros.\n
+Pellentesque a tortor interdum, eleifend risus sed, tempor mi.\n
+Pellentesque pharetra lorem sed molestie faucibus.\n
+Duis efficitur lorem non vestibulum imperdiet.\n
+Fusce consequat velit vitae felis pellentesque lobortis.\n
+Maecenas non lectus in enim lacinia eleifend vel sit amet ex.\n
+Nunc nec ligula a nibh lacinia congue non vitae risus.\n
+Suspendisse porta magna volutpat, varius nulla eget, euismod mi.\n
+Morbi in libero vitae mi euismod maximus eget ac nulla.\n
+Nullam tempus sem auctor arcu egestas condimentum.\n
+Suspendisse in ante ut mauris condimentum feugiat laoreet eget risus.\n
+Phasellus at nisi ut arcu imperdiet dapibus.\n
+Proin ut metus quis mauris ullamcorper gravida eu quis leo.\n
+Fusce varius mi quis elit fringilla aliquet.\n
+Donec sit amet augue nec lorem imperdiet molestie sit amet sed orci.\n
+Praesent nec velit eget ante gravida sodales.\n
+Nulla at lectus non magna ultrices fringilla.\n
+Pellentesque feugiat sem a quam ultricies, et tincidunt tortor elementum.\n
+Donec volutpat justo ut tellus sagittis bibendum.\n
+Fusce interdum diam at rhoncus elementum.\n
+Mauris et ex tempor, accumsan eros eget, fringilla dui.\n
+Cras posuere orci quis posuere vestibulum.\n
+Duis sagittis nisl ut lacus lobortis vehicula.\n
+Vestibulum ac turpis suscipit, commodo elit eu, dictum odio.\n
+Vestibulum pretium dui ultricies, eleifend urna non, semper sem.\n
+Quisque quis diam tempor, ultrices ipsum vitae, viverra metus.\n
+Pellentesque sit amet felis a dui luctus porttitor non ac risus.\n
+Etiam efficitur tellus eu sodales ultricies.\n
+Integer at leo interdum, maximus libero vel, luctus dui.\n
+Sed iaculis elit sit amet blandit suscipit.\n
+Quisque dignissim leo sed turpis faucibus, ut laoreet erat tempus.\n
+Proin semper nunc sed nulla lobortis aliquet.\n
+Donec suscipit augue at orci mattis dapibus.\n
+Proin ac urna tristique lacus fermentum fermentum.\n
+Aliquam vestibulum ipsum vel egestas facilisis.\n
+Integer vestibulum urna et urna iaculis finibus.\n
+Etiam sit amet ante at metus auctor ullamcorper eu in purus.\n
+Etiam dictum augue tempus purus cursus, a suscipit tellus cursus.\n
+Integer sollicitudin odio et elit sollicitudin, eu pulvinar purus posuere.\n
+Morbi at lectus pretium, posuere nisi ac, hendrerit ante.\n
+Aliquam ultrices ante a iaculis ullamcorper.\n
+Nullam fringilla arcu ut sapien interdum, id porttitor sapien faucibus.\n
+Nullam non felis vitae neque eleifend dictum id id ligula.\n
+Nam eget ante in elit fringilla dapibus.\n
+Donec porttitor sem viverra facilisis blandit.\n
+Nam porttitor lacus quis felis malesuada lobortis.\n
+Fusce pharetra nisl quis tortor pulvinar, ultricies lobortis odio accumsan.\n
+Morbi volutpat risus consectetur posuere sagittis.\n
+In pretium nunc blandit enim euismod aliquam.\n
+Praesent eu diam volutpat, accumsan orci sit amet, vestibulum libero.\n
+Aenean ullamcorper libero sit amet massa egestas suscipit.\n
+Maecenas nec nisl sed nibh egestas dapibus.\n
+Morbi sit amet justo auctor, pharetra dui eget, posuere nunc.\n
+Proin et ex mattis, pharetra metus eu, aliquam massa.\n
+Mauris efficitur metus sit amet ligula pharetra mollis.\n
+Curabitur eget neque mattis, luctus dui non, feugiat nulla.\n
+Sed vehicula mauris id gravida iaculis.\n
+Mauris et mi feugiat, placerat augue iaculis, tincidunt lacus.\n
+Quisque quis nisl lobortis, cursus erat non, aliquet velit.\n
+Suspendisse luctus mi eget tellus imperdiet, a pellentesque risus dapibus.\n
+Sed ultricies nisl laoreet dui ultrices, a cursus felis sodales.\n
+Duis porttitor tellus vitae dui venenatis dapibus.\n
+Fusce et felis aliquam, malesuada leo sit amet, eleifend nisi.\n
+Integer malesuada neque eu orci sollicitudin, vel blandit nibh varius.\n
+Phasellus imperdiet est lacinia erat mollis rutrum.\n
+Aliquam sed lectus placerat, fringilla odio ac, tincidunt massa.\n
+Suspendisse in magna et nunc fermentum ultricies id sit amet magna.\n
+Suspendisse vehicula elit et justo luctus tempus.\n
+Donec commodo dolor ut mollis varius.\n
+Sed ut enim varius dolor efficitur blandit.\n
+Quisque quis mi quis turpis lacinia pulvinar.\n
+Pellentesque commodo odio non lacus viverra, nec ultrices neque maximus.\n
+Mauris eu odio ac velit auctor convallis.\n
+Morbi eget sem eget elit porttitor sodales.\n
+Proin ac velit fringilla, tempus dui non, aliquam nulla.\n
+Pellentesque pulvinar leo nec quam varius bibendum.\n
+Nullam fermentum odio sed bibendum maximus.\n
+Praesent a nisl mattis, iaculis lacus vitae, hendrerit nulla.\n
+In aliquam enim gravida velit commodo, at eleifend metus tristique.\n
+Proin mollis diam id vehicula feugiat.\n
+Nunc laoreet purus vitae magna euismod tristique.\n
+In commodo ante pharetra risus venenatis, vitae tristique mi vulputate.\n
+Nunc sed nisl congue dolor efficitur aliquet non imperdiet dui.\n
+Vestibulum ut magna eget metus lobortis pulvinar vel eget magna.\n
+Integer at diam mattis, rhoncus massa in, ultrices lorem.\n
+Ut faucibus mi sed aliquet ullamcorper.\n
+Etiam at massa varius, fermentum arcu sed, ornare est.\n
+Donec ullamcorper turpis sed nulla mattis bibendum.\n
+Ut pellentesque mauris quis laoreet accumsan.\n
+Nunc eget quam vitae ipsum fermentum faucibus.\n
+Cras imperdiet neque in justo lacinia porta.\n
+Proin auctor est eget libero dignissim ullamcorper.\n
+Quisque accumsan elit nec orci laoreet, ac faucibus tellus dignissim.\n
+Integer in sem pretium, hendrerit erat ut, efficitur nulla.\n
+Duis faucibus ante sit amet neque imperdiet, nec hendrerit augue finibus.\n
+Donec varius nisl blandit tincidunt facilisis.\n
+Mauris finibus turpis non leo sagittis, quis euismod neque faucibus.\n
+Cras consequat lectus non dignissim feugiat.\n
+Nullam nec orci quis nibh ultricies accumsan.\n
+Phasellus in enim tristique, lacinia turpis varius, lacinia lorem.\n
+Integer non sapien sagittis lectus condimentum lacinia nec vitae sem.\n
+Nunc eget quam quis tortor aliquet faucibus.\n
+Aenean feugiat tortor ornare quam pretium dictum.\n
+Ut efficitur purus at lorem feugiat finibus.\n
+Phasellus gravida ligula ac gravida congue.\n
+Nulla nec ipsum et nibh efficitur pellentesque at eget elit.\n
+Donec mollis ligula eget auctor semper.\n
+Suspendisse ut erat commodo, porttitor sapien vel, consequat lacus.\n
+Vestibulum sit amet lectus tempus, tempus arcu in, rutrum lectus.\n
+Phasellus eleifend nibh non lobortis tempus.\n
+Aenean nec mauris sit amet justo scelerisque vehicula consequat id justo.\n
+Phasellus scelerisque massa vel elementum vestibulum.\n
+Nullam vulputate erat vitae eleifend fermentum.\n
+Vestibulum sed metus a elit tincidunt vestibulum quis non metus.\n
+Ut et tortor tincidunt, facilisis augue nec, faucibus justo.\n
+Maecenas sit amet nisi id purus ultrices ornare quis vel dui.\n
+Nulla facilisis justo at neque aliquam, vel feugiat magna luctus.\n
+Proin vel diam egestas, pulvinar urna quis, condimentum risus.\n
+Morbi lacinia nibh ut pulvinar lacinia.\n
+Maecenas euismod sapien ac sapien porttitor ultrices.\n
+Aliquam sed arcu ultrices, finibus nisl dapibus, pharetra neque.\n
+Aliquam pellentesque diam vulputate dui pretium, a maximus ante facilisis.\n
+Maecenas id ipsum ut nisi pulvinar ullamcorper eget non neque.\n
+Sed dignissim quam non metus pharetra tincidunt.\n
+Sed nec felis eu lorem rutrum sodales.\n
+Quisque imperdiet ipsum lacinia nisl dignissim interdum.\n
+Maecenas tristique dolor fermentum convallis elementum.\n
+In ut dui efficitur, interdum magna quis, feugiat massa.\n
+Integer at elit et nisi lobortis tempor.\n
+Quisque condimentum massa a quam gravida elementum.\n
+Pellentesque eget massa vulputate lorem tempor fermentum.\n
+Proin eu velit sed nulla maximus vestibulum.\n
+Maecenas aliquet augue id nibh ullamcorper pellentesque.\n
+Quisque molestie nunc nec augue semper, eu egestas orci dapibus.\n
+Maecenas maximus mi nec tristique tincidunt.\n
+Donec vel felis ut nisi tincidunt gravida et non orci.\n
+Sed congue metus sit amet magna tempor, ac mattis velit volutpat.\n
+Sed vel augue a tortor volutpat blandit.\n
+Nam maximus nulla ac nunc tincidunt, sodales mollis mi egestas.\n
+Phasellus eu est tincidunt, tempus velit ac, finibus justo.\n
+Nunc at elit et sem vehicula tincidunt at vulputate ipsum.\n
+Vivamus non mauris vehicula, pulvinar nisi vel, sollicitudin neque.\n
+Ut at ex eget elit rutrum sollicitudin.\n
+Pellentesque nec justo in felis laoreet auctor.\n
+Nulla at nisi placerat, posuere enim id, efficitur velit.\n
+Ut non ipsum nec massa semper consequat.\n
+Proin quis tortor eu lacus elementum lobortis sed vitae ex.\n
+Nullam lacinia felis egestas dui tristique, eget euismod leo pellentesque.\n
+Nam molestie tellus ut dolor sodales faucibus.\n
+Aliquam quis magna sit amet ante tristique aliquet eget quis arcu.\n
+Mauris vulputate metus ultrices dolor mattis lobortis.\n
+Integer molestie justo vel nibh tincidunt interdum.\n
+Ut gravida lorem et nisi accumsan, ut lobortis mi luctus.\n
+Nulla eu massa eget quam maximus ullamcorper.\n
+Donec at dui iaculis, dapibus odio nec, faucibus eros.\n
+Proin ut sem quis enim viverra tincidunt quis et arcu.\n
+Vivamus in dui at nisi fringilla accumsan quis eu purus.\n
+Donec feugiat lacus viverra, semper sapien in, fringilla tellus.\n
+Cras lacinia est ac lacus egestas, at gravida ipsum pretium.\n
+Phasellus ac urna eget ligula luctus iaculis.\n
+Vestibulum nec leo a ex rutrum varius.\n
+Nam commodo metus ac dapibus pretium.\n
+Etiam tristique nunc venenatis sapien gravida, nec porttitor tellus faucibus.\n
+Aenean bibendum dolor consectetur, tristique sem ut, ornare ante.\n
+Curabitur congue lacus sed lectus rutrum, vitae aliquam orci tincidunt.\n
+Etiam porttitor enim quis nunc malesuada lacinia.\n
+Maecenas sit amet urna sit amet elit consectetur tincidunt non id augue.\n
+Donec mattis massa quis sapien interdum, eu efficitur risus vulputate.\n
+In efficitur nisl ultricies metus porttitor tempus.\n
+Aenean aliquet enim vel nulla ultricies, quis vulputate sem convallis.\n
+Sed faucibus diam vitae odio lacinia, nec porttitor ipsum laoreet.\n
+Integer tincidunt nunc eget eros ornare maximus.\n
+Cras ornare risus ut neque pulvinar pulvinar.\n
+Donec fermentum sapien in nunc cursus, at viverra orci ultrices.\n
+Duis viverra risus eu arcu volutpat congue.\n
+Proin commodo nisi euismod tellus suscipit, eu aliquet mauris varius.\n
+Mauris porttitor lacus vel sagittis lobortis.\n
+Mauris porttitor enim cursus, commodo est id, efficitur lacus.\n
+Sed eget risus nec augue lobortis euismod semper tristique est.\n
+Ut eu erat interdum magna suscipit lacinia.\n
+Suspendisse venenatis justo non purus placerat convallis.\n
+Phasellus laoreet erat quis est consequat euismod.\n
+Ut viverra nulla sed enim faucibus, pellentesque efficitur odio semper.\n
+Duis quis metus ultricies, varius ante non, maximus tellus.\n
+Nullam eleifend felis maximus lectus faucibus pellentesque.\n
+Cras tincidunt lacus rhoncus nisl accumsan pellentesque.\n
+Sed in ex vestibulum, faucibus nibh vel, auctor lorem.\n
+Vivamus id nibh euismod, congue nisi et, dictum justo.\n
+Vestibulum sodales metus sed ligula mollis, sed pretium ante convallis.\n
+Morbi et ligula varius, ultricies elit sit amet, fringilla orci.\n
+Nunc dignissim eros at felis lacinia, ac vulputate dolor elementum.\n
+Donec consequat augue eu tellus iaculis, nec posuere diam tincidunt.\n
+Donec vel tellus cursus, condimentum orci eget, lobortis nulla.\n
+Vestibulum nec lacus ac nunc euismod consequat nec molestie tellus.\n
+Morbi faucibus urna id gravida accumsan.\n
+Etiam consectetur arcu at imperdiet rhoncus.\n
+Vivamus in neque id ligula tincidunt maximus ac a ipsum.\n
+Suspendisse tincidunt risus nec ipsum luctus bibendum.\n
+Quisque eget felis non ipsum rutrum consectetur.\n
+Aenean vitae felis nec dolor euismod tempor sed id sem.\n
+Nullam quis elit scelerisque, mattis ante id, venenatis justo.\n
+Proin mattis risus in quam interdum mattis.\n
+Vestibulum venenatis justo id congue faucibus.\n
+Cras sodales nisi eget volutpat pharetra.\n
+Nulla a libero dignissim, ultrices erat id, iaculis erat.\n
+Pellentesque pulvinar elit eu purus cursus, quis cursus lorem maximus.\n
+Pellentesque iaculis odio id enim tristique pellentesque.\n
+Aenean vel massa quis mi condimentum tempus.\n
+Pellentesque ut ipsum in metus pulvinar vehicula id vitae est.\n
+Vestibulum tincidunt libero non velit finibus, eu fringilla tortor interdum.\n
+Vestibulum sed lectus pulvinar, lobortis mauris a, finibus quam.\n
+Mauris commodo ex sit amet dignissim mollis.\n
+Integer dignissim leo non velit accumsan faucibus.\n
+Proin gravida ligula nec est vulputate iaculis.\n
+Nunc sodales erat sit amet finibus commodo.\n
+Morbi quis neque at nibh dictum porta quis a eros.\n
+Vivamus suscipit nisl congue vestibulum maximus.\n
+Fusce sodales ante eget placerat convallis.\n
+Integer egestas augue quis ante commodo faucibus.\n
+Praesent congue orci nec diam faucibus, in iaculis eros lobortis.\n
+Quisque ut urna ullamcorper, mollis libero eu, suscipit justo.\n
+Duis sed mauris vitae nulla ultricies ullamcorper et non turpis.\n
+Aenean et libero id tellus viverra ullamcorper at quis purus.\n
+Aenean nec dui dictum erat egestas laoreet.\n
+Nullam non metus rhoncus, mollis justo a, malesuada nibh.\n
+Sed consectetur tortor nec lacinia semper.\n
+Nulla tincidunt lacus a commodo hendrerit.\n
+Quisque vel purus lacinia, malesuada ipsum non, aliquet felis.\n
+Sed a ligula sed dui faucibus vestibulum ac ac erat.\n
+Nunc aliquet ipsum ac eleifend sagittis.\n
+Etiam a ligula vulputate, dignissim odio vel, tincidunt ex.\n
+Maecenas ornare metus quis eleifend rutrum.\n
+Sed quis massa vitae libero rutrum blandit sit amet quis libero.\n
+Sed quis elit at orci malesuada condimentum et eu ligula.\n
+Nulla hendrerit massa et augue fermentum lacinia.\n
+Donec ac sapien in est dictum dictum eget ac nunc.\n
+Suspendisse molestie turpis vitae erat rutrum, ut accumsan mi scelerisque.\n
+Nam dapibus lacus sit amet lorem fermentum feugiat.\n
+Duis vitae purus viverra nisl congue vestibulum.\n
+Aenean quis lectus eget tortor finibus congue non nec arcu.\n
+Sed sed nunc pharetra, laoreet mauris in, auctor est.\n
+Vivamus maximus nisl vel magna ornare, egestas euismod felis viverra.\n
+Nunc id arcu molestie, mollis metus eget, vulputate tellus.\n
+Maecenas aliquam tellus pulvinar aliquam volutpat.\n
+In et dui vel lacus viverra facilisis.\n
+Mauris rutrum mauris et neque vestibulum euismod.\n
+Donec venenatis felis non justo pretium faucibus.\n
+Nam semper nulla at ante elementum elementum.\n
+Nam consequat nibh convallis diam auctor finibus.\n
+Nunc lacinia libero et velit ullamcorper, in pretium quam cursus.\n
+Vivamus ut lorem imperdiet, lobortis metus vel, ultrices erat.\n
+Aenean mattis lorem eu purus mollis, vitae faucibus mauris cursus.\n
+In congue mauris ut tellus pulvinar, sit amet suscipit magna facilisis.\n
+Etiam semper tellus sit amet nibh commodo, et maximus leo congue.\n
+Cras scelerisque tellus ac lectus dictum congue.\n
+Curabitur cursus nisl vitae accumsan interdum.\n
+Vestibulum tempus neque ac dui venenatis tincidunt.\n
+Donec commodo ex sit amet porttitor commodo.\n
+Quisque ac lectus fermentum, lobortis magna ut, ultricies ante.\n
+Maecenas et mi non tellus hendrerit imperdiet euismod vel nisi.\n
+Maecenas ut turpis a orci bibendum eleifend.\n
+Nulla viverra odio ut ex tempus vulputate.\n
+Donec vehicula diam vel bibendum elementum.\n
+Integer sit amet augue vel ligula convallis finibus.\n
+Sed eu tellus rutrum, commodo arcu ac, rutrum tortor.\n
+Nunc rutrum lacus a maximus tempus.\n
+Duis feugiat ante vitae quam vehicula consectetur.\n
+Etiam laoreet quam ut purus ullamcorper feugiat.\n
+Aliquam eu nisi nec nisl vehicula malesuada ac et orci.\n
+Nullam et diam vitae felis efficitur tristique.\n
+Vestibulum quis enim fringilla, lobortis purus et, finibus tellus.\n
+Maecenas id sem eu ipsum vulputate congue.\n
+In lobortis felis ullamcorper elit accumsan congue.\n
+Quisque vitae dolor quis metus sagittis hendrerit.\n
+Duis sed massa non mi convallis semper sed a nisi.\n
+Cras dictum sapien id erat vehicula vulputate.\n
+Nunc malesuada felis sed risus consequat faucibus.\n
+Sed blandit dui eu porta consequat.\n
+Suspendisse ac lectus tincidunt, maximus risus ac, interdum erat.\n
+Ut viverra nunc eu malesuada cursus.\n
+Curabitur accumsan erat ut nibh vulputate ornare a vestibulum est.\n
+Aenean in leo nec eros vestibulum sagittis.\n
+Morbi posuere massa ac leo suscipit accumsan.\n
+Nunc vehicula nulla ac condimentum rhoncus.\n
+Suspendisse pretium lacus eu ultricies ornare.\n
+Vivamus elementum quam vel dictum commodo.\n
+Mauris non magna in mauris porta pulvinar.\n
+Vestibulum interdum risus ac turpis luctus auctor.\n
+Nullam eu justo in elit pretium faucibus.\n
+Mauris ac velit vehicula, ultricies quam vel, mattis enim.\n
+Nam a nisl in felis consectetur rutrum.\n
+Aenean ut ipsum nec lorem dictum maximus.\n
+Quisque dignissim urna ac magna commodo, ut iaculis mi volutpat.\n
+Sed vel nibh non dui consectetur interdum id in augue.\n
+Vestibulum rutrum ex ac velit elementum, sed blandit lacus pulvinar.\n
+Proin malesuada est sit amet vulputate hendrerit.\n
+Phasellus pulvinar sapien eget elit posuere suscipit.\n
+Nunc tempus odio vitae ligula aliquet, sagittis hendrerit turpis commodo.\n
+Etiam lacinia ligula ornare elit sagittis, vel varius urna rhoncus.\n
+Curabitur malesuada ligula vitae dui pellentesque, nec pellentesque diam ultricies.\n
+Sed ornare turpis et ipsum posuere blandit.\n
+Nam sed sem gravida ante molestie malesuada.\n
+Sed convallis ligula eget ultrices aliquam.\n
+Phasellus ut nisl eget neque imperdiet blandit.\n
+Aliquam euismod mauris ut enim dapibus ullamcorper.\n
+Curabitur id tellus ut libero porttitor laoreet non laoreet sem.\n
+Donec congue lorem vitae placerat hendrerit.\n
+Aliquam mollis urna non venenatis dapibus.\n
+Curabitur tincidunt massa non diam vulputate aliquet.\n
+Nullam in velit sagittis dolor dictum sagittis.\n
+Nulla elementum nisi quis libero ultrices molestie.\n
+Praesent fermentum magna ac felis venenatis vulputate.\n
+Etiam sit amet eros vel lectus vehicula vestibulum ut vitae urna.\n
+Sed condimentum arcu a ipsum molestie, ut fringilla tellus eleifend.\n
+Duis eget lectus eget nisl laoreet congue.\n
+Integer lobortis orci id ipsum laoreet pulvinar.\n
+In rutrum tortor quis lectus congue, ut mollis urna porta.\n
+Maecenas sed massa molestie, condimentum orci a, imperdiet augue.\n
+Sed vitae elit ac augue laoreet pellentesque.\n
+Nunc aliquet urna ac lectus consectetur, eget maximus magna blandit.\n
+Ut eleifend urna vitae nulla ultrices pharetra.\n
+Vestibulum luctus lorem a orci imperdiet, ac molestie nisi fringilla.\n
+Duis pulvinar turpis et mattis vulputate.\n
+Pellentesque in magna vitae ante pharetra mollis.\n
+Nam in risus quis quam iaculis eleifend et quis felis.\n
+Integer sed leo rutrum, convallis metus quis, efficitur quam.\n
+Nunc quis purus tincidunt, posuere ex pretium, mollis magna.\n
+Integer venenatis est eget lectus tincidunt viverra.\n
+In commodo justo laoreet, congue magna et, condimentum mi.\n
+Cras et ligula ut ipsum mollis maximus sagittis ut metus.\n
+Cras posuere risus sit amet blandit tempus.\n
+Aliquam commodo libero quis tincidunt porta.\n
+Suspendisse sit amet elit et urna gravida sodales.\n
+Suspendisse laoreet turpis eu mauris dictum cursus.\n
+Sed aliquam sapien non diam efficitur fringilla.\n
+Fusce nec enim sit amet urna vulputate ornare vel quis justo.\n
+Etiam rutrum ligula eleifend ullamcorper auctor.\n
+Nam nec dui vestibulum, posuere elit in, ornare nibh.\n
+Praesent quis turpis ac tellus porta dapibus id eu lectus.\n
+Praesent dapibus est sit amet justo ullamcorper ultrices quis non nulla.\n
+Aenean fermentum purus id nibh tempus placerat.\n
+Duis non purus sit amet eros vehicula aliquam non eget leo.\n
+Nunc tincidunt ante a mi facilisis egestas.\n
+Nam in nibh vitae massa faucibus eleifend et nec mi.\n
+Praesent pulvinar ligula nec nisi feugiat, id facilisis sem dignissim.\n
+Phasellus porta nulla eget ipsum cursus, eu egestas quam porttitor.\n
+Fusce dapibus ligula vel tellus pharetra, sed consectetur urna placerat.\n
+Pellentesque placerat dolor sed nisl gravida ornare.\n
+Donec pharetra libero sed quam semper mollis.\n
+Donec ut erat aliquam, aliquet elit vitae, maximus mauris.\n
+Mauris mollis nulla et mauris consectetur, nec consequat ex condimentum.\n
+Curabitur a erat vitae urna dignissim sodales.\n
+Nunc et quam faucibus, dapibus velit non, tincidunt mi.\n
+Morbi bibendum magna in nunc finibus, non congue elit varius.\n
+Sed sed lacus sit amet leo aliquet tristique et vel augue.\n
+Vestibulum auctor turpis ultrices lorem tincidunt placerat.\n
+Vivamus quis purus eget nibh lacinia semper at at mauris.\n
+Aenean tincidunt lorem vel tincidunt rutrum.\n
+Nunc ut nisl at mauris maximus placerat.\n
+Integer ac tortor sit amet felis sodales mollis gravida ac enim.\n
+Vestibulum faucibus ex sit amet elementum vehicula.\n
+Sed tincidunt orci ut magna viverra placerat.\n
+Ut scelerisque lectus ac elementum volutpat.\n
+Nulla sed risus sed libero ultricies fermentum sit amet ut urna.\n
+Pellentesque non lorem quis risus semper congue.\n
+Maecenas luctus sem eu massa consectetur, vitae dictum quam semper.\n
+Donec a urna ut leo pulvinar rutrum ac ut lorem.\n
+Nunc eu diam iaculis, tempus nunc in, dictum ligula.\n
+Donec at urna tincidunt, sollicitudin tellus nec, porttitor lacus.\n
+Nunc ac massa fermentum, interdum quam a, fringilla orci.\n
+Proin vel eros eu tellus convallis hendrerit at a tortor.\n
+Donec volutpat justo a maximus ultricies.\n
+Mauris pretium tellus in porta finibus.\n
+Donec vulputate dui at sem sodales lacinia.\n
+Nam non elit auctor, varius sem eu, rutrum diam.\n
+Nam dapibus lorem vel nisi interdum, sit amet convallis nisl pulvinar.\n
+Pellentesque scelerisque quam sit amet enim viverra, gravida vulputate nulla gravida.\n
+Morbi volutpat sem vel consequat molestie.\n
+Mauris tempor ligula vel mollis luctus.\n
+Sed at sem rutrum, volutpat libero id, tempor nunc.\n
+Quisque et magna congue, sollicitudin orci id, tempor justo.\n
+Donec tempus ipsum elementum, maximus mauris ac, dapibus velit.\n
+Pellentesque varius leo vel augue consectetur, et ornare justo ultrices.\n
+Donec feugiat ipsum vel est porttitor, vel eleifend ipsum iaculis.\n
+Phasellus ullamcorper dui sit amet diam efficitur, in aliquam mauris euismod.\n
+Morbi vulputate mauris ut tortor aliquet, vitae elementum nisl mollis.\n
+Vivamus ac enim maximus, pulvinar turpis quis, maximus sem.\n
+Sed porttitor purus id risus varius, eget laoreet diam tincidunt.\n
+Donec feugiat libero vel ligula mattis mattis.\n
+Maecenas fringilla augue nec leo rutrum pellentesque.\n
+Nam id enim ac nisi accumsan ornare eget ut leo.\n
+Donec sagittis odio a felis ultrices tempus.\n
+Etiam in purus pharetra mi pretium varius.\n
+Ut sit amet ligula facilisis, ultrices magna id, interdum leo.\n
+Curabitur eu velit a urna vulputate placerat.\n
+Mauris luctus eros eu tortor placerat gravida.\n
+Aliquam bibendum lacus auctor, facilisis nunc in, consequat eros.\n
+Suspendisse in nulla et nibh sodales fermentum interdum ut lorem.\n
+Curabitur in est ac sem ornare auctor.\n
+Donec imperdiet lectus vel mauris vestibulum mollis.\n
+Sed sed metus suscipit, rutrum turpis vitae, scelerisque justo.\n
+Pellentesque vehicula lorem non rhoncus volutpat.\n
+Nam malesuada odio id quam pellentesque, non pretium dui pulvinar.\n
+Vestibulum malesuada justo at diam ultricies, id varius odio semper.\n
+Aliquam eu elit ullamcorper urna euismod tristique.\n
+Fusce ac tellus eget mauris posuere rhoncus.\n
+Donec fringilla nisl ut orci blandit, et consequat felis aliquam.\n
+In ac metus ac nisi porta dignissim.\n
+Nam id ligula ac nunc pulvinar faucibus.\n
+Integer et tellus quis nisl molestie gravida nec quis mi.\n
+Donec eget tellus egestas sem lacinia viverra.\n
+Fusce quis augue in magna rhoncus viverra ac vel dui.\n
+In nec mi pharetra, pellentesque ligula in, gravida velit.\n
+Pellentesque elementum erat congue, porta sapien in, feugiat ipsum.\n
+Morbi viverra turpis sed ex eleifend feugiat.\n
+Cras tempor erat vel erat finibus, sit amet efficitur ipsum sagittis.\n
+Morbi eget massa mattis, placerat neque vitae, sagittis dolor.\n
+Mauris vel sem sit amet tortor viverra bibendum.\n
+Vestibulum eget nulla eget eros tempor consectetur.\n
+Curabitur nec velit id lectus commodo finibus ac vel enim.\n
+Cras non ipsum tristique, consequat enim sed, fermentum lorem.\n
+Praesent eu ligula id arcu laoreet accumsan.\n
+Duis varius sapien vitae mauris aliquam, sit amet finibus mi laoreet.\n
+Sed sit amet metus a velit iaculis sollicitudin.\n
+In sit amet felis vel lectus fermentum imperdiet quis ac ex.\n
+In nec elit elementum diam dapibus pharetra.\n
+Maecenas in massa at sem fermentum eleifend.\n
+Etiam eleifend eros non enim blandit vehicula.\n
+Vivamus a risus ut metus sollicitudin dignissim quis vitae diam.\n
+Curabitur non nunc facilisis, tempus dui id, iaculis metus.\n
+Donec sodales erat eu quam lacinia, nec faucibus tellus rutrum.\n
+Praesent nec diam et metus feugiat vehicula eget at odio.\n
+Pellentesque porttitor urna nec mi venenatis molestie.\n
+Donec vitae mi aliquet, dignissim nulla a, iaculis sapien.\n
+Vestibulum tincidunt nunc interdum, rutrum nibh eu, molestie mi.\n
+Vivamus faucibus neque eu sem elementum, id mollis nulla placerat.\n
+Suspendisse tempus orci sit amet neque euismod commodo.\n
+Praesent sed quam lacinia, laoreet arcu a, vestibulum orci.\n
+Praesent id libero sed mi congue sollicitudin.\n
+Vestibulum a est consectetur, rutrum lectus a, consequat justo.\n
+Nullam et massa non erat maximus egestas.\n
+Nulla eget massa in dui fringilla condimentum.\n
+Phasellus venenatis sapien at elit egestas, vel lobortis augue ultrices.\n
+Vestibulum molestie erat vel orci vestibulum molestie.\n
+Aliquam vestibulum quam et risus lobortis posuere.\n
+Pellentesque ac arcu efficitur, molestie augue sagittis, lacinia purus.\n
+Aenean auctor enim nec sem pretium auctor.\n
+Ut venenatis turpis egestas, eleifend odio rhoncus, facilisis tellus.\n
+Duis a arcu in lorem sodales auctor at sit amet ante.\n
+Proin sed ex ultrices, efficitur augue sit amet, vulputate ipsum.\n
+In ac mi a enim sagittis tincidunt egestas sed lorem.\n
+Sed rutrum augue eget augue maximus efficitur.\n
+Aenean et libero sit amet ipsum fringilla consequat.\n
+Maecenas gravida ex et neque rutrum, sed commodo nibh auctor.\n
+Vestibulum eleifend ligula ut libero elementum eleifend.\n
+Cras vel nunc ut purus volutpat lacinia non ut ipsum.\n
+Sed et mauris tincidunt augue lobortis elementum nec sit amet purus.\n
+Etiam congue massa sed porttitor placerat.\n
+Nullam interdum risus pharetra dolor condimentum elementum.\n
+Praesent fermentum metus id nulla iaculis, eget scelerisque leo ultrices.\n
+Proin tristique quam ut lorem auctor, faucibus pretium dolor molestie.\n
+Sed pulvinar lectus vitae est feugiat, at accumsan libero lacinia.\n
+Praesent interdum purus quis imperdiet pretium.\n
+Vivamus at odio nec dui aliquam gravida at a dui.\n\n\n</string>
+</resources>
